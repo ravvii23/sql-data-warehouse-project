@@ -139,3 +139,17 @@ This repository documents one of my learning projects focused on modern data war
 8. Dimension Tables
 9. SQL Reporting
 
+
+   ## Future Improvements:
+   Future Improvements
+
+  Power BI Dashboard
+
+  Incremental ETL
+
+  Automation using Airflow
+
+  dbt transformations
+
+  Data Quality Monitoring
+
